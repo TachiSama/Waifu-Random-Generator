@@ -2,6 +2,6 @@
 
 This is my first project 
 
-Heres the Website: **Link:** [Waifu Random Generator](https://your-username.github.io/Waifu-Random-Generator/)  
+Heres the Website: [Waifu Random Generator](https://TachiSama.github.io/Waifu-Random-Generator/)  
 
 Hopefully it works lol
